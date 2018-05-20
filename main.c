@@ -30,7 +30,7 @@ init_vect_ctr_string[BLCK_SIZE / 2] =
     0x78, 0x56, 0x34, 0x12
 };
 
-const char *in_file_name = "test.txt";
+const char *in_file_name = "test_kuz.txt";
 const char *out_file_ECB_name = "encrypt_test_ECB.txt";
 const char *out_file_CTR_name = "encrypt_test_CTR.txt";
 
